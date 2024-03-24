@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Luckynumber</string>
+    <string name="your_random_number_is">Your Random Number is</string>
+    <string name="_0000">0000</string>
+    <string name="share_the_result">Share The Result</string>
+    <string name="random_number_app">Random Number App</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="give_me_a_number">Give me a Number</string>
+</resources>
